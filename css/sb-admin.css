@@ -37,9 +37,9 @@ body {
         padding-left: 101px;
     }
 
-    #page-wrapper {
+    /*#page-wrapper {
         padding: 10px;
-    }
+    }*/
 }
 
 /* Top Navigation */
@@ -152,18 +152,6 @@ ul.alert-dropdown {
 
 .side-nav>li>ul>li>a:hover {
     color: #fff;
-}
-
-/* Flot Chart Containers */
-
-.flot-chart {
-    display: block;
-    height: 400px;
-}
-
-.flot-chart-content {
-    width: 100%;
-    height: 100%;
 }
 
 /* Custom Colored Panels */
